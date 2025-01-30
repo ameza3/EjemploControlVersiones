@@ -42,3 +42,14 @@ Ladoa <- 3
 Ladob <- 4
 AreaRectangulo <- Ladoa*Ladob
 ```
+
+## Area Trapecio
+
+```{r}
+
+Basea <- 3
+Baseb <- 4
+alt <- 4
+AreaTrapecio <- (Basea+Baseb)*alt/2
+```
+
