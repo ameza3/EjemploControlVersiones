@@ -10,6 +10,6 @@ PerimetroCirculo <- function(R){
 
 PerimetroRectangulo <- function(B,H){
   
-  return(2B+2H)
+  return(2+2H)
 }
   
